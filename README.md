@@ -15,7 +15,9 @@ To build and run this project:
 |   [**Movie ticket**](https://github.com/OscarViana20/flutter_samples/tree/main/lib/src/dribbble_sample/movie_tickets)  |
 |------------|
 ![movie_ticket](https://github.com/user-attachments/assets/32cd0708-612d-4ea2-9cb1-c5039bdba4d0)
-
+|   [**Cinema concept**](https://github.com/OscarViana20/flutter_samples/tree/main/lib/src/dribbble_sample/cinema_concept)  |
+|------------|
+![cinema_concept (2)](https://github.com/user-attachments/assets/45b38c21-2f08-4507-8fba-44f270cc5455)
 |   [**Shoe store**](https://github.com/OscarViana20/flutter_samples/tree/main/lib/src/dribbble_sample/shoe_store)  |
 |------------|
 ![shoe_store](https://github.com/user-attachments/assets/20bd3e68-9067-41db-914f-e13ad0e34218)
