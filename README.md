@@ -17,4 +17,5 @@ To build and run this project:
 |  ![bank_manager](https://github.com/user-attachments/assets/24cbed29-657f-4a30-ab61-44e46653a0db)  |
 
 |   [**Cinema concept**](https://github.com/OscarViana20/flutter_samples/tree/main/lib/src/dribbble_sample/cinema_concept)  |
-|  ![cinema_concept (2)](https://github.com/user-attachments/assets/e6259d6d-934c-4e2d-978c-2f9640e18705)  |
+|------------|
+|  ![cinema_concept](https://github.com/user-attachments/assets/e6259d6d-934c-4e2d-978c-2f9640e18705)  |
