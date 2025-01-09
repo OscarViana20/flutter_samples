@@ -19,3 +19,7 @@ To build and run this project:
 |   [**Cinema concept**](https://github.com/OscarViana20/flutter_samples/tree/main/lib/src/dribbble_sample/cinema_concept)  |
 |------------|
 |  ![cinema_concept](https://github.com/user-attachments/assets/e6259d6d-934c-4e2d-978c-2f9640e18705)  |
+
+|   [**Movie tickets**](https://github.com/OscarViana20/flutter_samples/tree/main/lib/src/dribbble_sample/movie_tickets)  |
+|------------|
+|  ![movie_ticket](https://github.com/user-attachments/assets/d37b2f62-9cbb-4303-b7cf-2b74a0fdaee5)  |
