@@ -12,7 +12,7 @@ To build and run this project:
 
 (Please note that a Mac with XCode is required to build for iOS)
 
-|   [**Shoe store**](https://github.com/OscarViana20/flutter_samples/tree/main/lib/src/dribbble_sample/shoe_store)  |
+|   [**Bank manager**](https://github.com/OscarViana20/flutter_samples/tree/main/lib/src/dribbble_sample/bank_manager)  |
 |------------|
-|   https://drive.google.com/uc?id=1JTM32e-zgqqRjcc3owxxzHB0h15LZ-xA    |
+|  ![bank_manager](https://github.com/user-attachments/assets/24cbed29-657f-4a30-ab61-44e46653a0db)  |
 
