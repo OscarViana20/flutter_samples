@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_samples/src/app_challenge/play_station/home.dart';
 
+import 'animated_list/animated_page.dart';
+
 class MainAppChallenge extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -61,4 +63,7 @@ class Route {
   final Widget page;
 }
 
-final routesList = <Route>[Route(title: 'Play station', page: Home())];
+final routesList = <Route>[
+  Route(title: 'Play station', page: Home()),
+  Route(title: 'Animated List', page: AnimatedPage()),
+];
