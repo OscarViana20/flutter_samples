@@ -26,4 +26,6 @@ To build and run this project:
 
 |   [**Animated list**](https://github.com/OscarViana20/flutter_samples/tree/main/lib/src/app_challenge/animated_list)  |
 |------------|
-|  ![spiral_default](https://github.com/user-attachments/assets/be04e034-73e6-4197-8941-de9046253207)  |  ![spiral_custom](https://github.com/user-attachments/assets/6bafdc80-7c05-4f8a-b27f-82bc5102bf9d)  |  ![fade](https://github.com/user-attachments/assets/8fa48275-7343-4e15-881d-063f7fc33a12)  |
+|  ![spiral_default](https://github.com/user-attachments/assets/be04e034-73e6-4197-8941-de9046253207)  |
+|  ![spiral_custom](https://github.com/user-attachments/assets/6bafdc80-7c05-4f8a-b27f-82bc5102bf9d)  |
+|  ![fade](https://github.com/user-attachments/assets/8fa48275-7343-4e15-881d-063f7fc33a12)  |
