@@ -29,3 +29,5 @@ To build and run this project:
 |  ![spiral_default](https://github.com/user-attachments/assets/be04e034-73e6-4197-8941-de9046253207)  |
 |  ![spiral_custom](https://github.com/user-attachments/assets/6bafdc80-7c05-4f8a-b27f-82bc5102bf9d)  |
 |  ![fade](https://github.com/user-attachments/assets/8fa48275-7343-4e15-881d-063f7fc33a12)  |
+|  ![circular](https://github.com/user-attachments/assets/64086bc7-0401-49fb-87a8-3644c960a9f6)  |
+
